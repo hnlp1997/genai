@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Steam Game Reviews Wizard :hamburger:")
+st.title("Bay Area Food Chatbot :hamburger:")
 
 with st.form(key='my_form'):
   text_input = st.text_input(label='Write a query asking about food in the Bay Area:')
