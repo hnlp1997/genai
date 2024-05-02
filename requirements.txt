@@ -1,0 +1,13 @@
+streamlit
+unstructured langchain
+"unstructured[all-docs]"
+pdf2image
+pdfminer.six
+pillow_heif
+opencv-python-headless
+pikepdf
+pypdf
+unstructured-inference
+pytesseract
+chromadb
+langchain-text-splitters
